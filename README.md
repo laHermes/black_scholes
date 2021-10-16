@@ -1,1 +1,1 @@
-# Black-Scholes_merton European Option Pricing
+# Black-Scholes-Merton European Options Pricing
